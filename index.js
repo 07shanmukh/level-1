@@ -1,4 +1,4 @@
-const h1 = () => {
+const a = () => {
     console.log("Hello Node.js!");
 }
-h1();
+a();
